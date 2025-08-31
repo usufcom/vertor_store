@@ -123,6 +123,10 @@ Brief description of changes
 - Check existing issues and pull requests
 - Join discussions in issues
 - Ask questions in issues with the "question" label
+- Contact the maintainer:
+  - **Email**: usufcom20@gmail.com
+  - **Website**: [www.djamai.com](https://www.djamai.com)
+  - **LinkedIn**: [@usufcom](https://www.linkedin.com/in/usufcom)
 
 ## 🎉 Recognition
 

@@ -13,7 +13,10 @@ Features:
 - Comprehensive metadata preservation
 - Direct OpenAI API integration
 
-Author: Your Name
+Author: Usuf Com
+Contact: usufcom20@gmail.com
+Website: www.djamai.com
+LinkedIn: https://www.linkedin.com/in/usufcom
 Date: 2024
 """
 

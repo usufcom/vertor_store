@@ -9,12 +9,17 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="rag-knowledge-base",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Usuf Com",
+    author_email="usufcom20@gmail.com",
     description="A comprehensive Retrieval Augmented Generation (RAG) system for building knowledge bases",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/rag-knowledge-base",
+    url="https://github.com/usufcom/rag-knowledge-base",
+    project_urls={
+        "Website": "https://www.djamai.com",
+        "LinkedIn": "https://www.linkedin.com/in/usufcom",
+        "Bug Reports": "https://github.com/usufcom/rag-knowledge-base/issues",
+    },
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",

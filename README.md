@@ -170,6 +170,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - FAISS for efficient similarity search
 - The AI community for inspiration and guidance
 
-## 📞 Support
+## 📞 Support & Contact
 
-If you have any questions or need help, please open an issue on GitHub or contact the maintainers.
+If you have any questions or need help, please reach out:
+
+- **Website**: [www.djamai.com](https://www.djamai.com)
+- **Email**: usufcom20@gmail.com
+- **LinkedIn**: [@usufcom](https://www.linkedin.com/in/usufcom)
+
+You can also open an issue on GitHub for bugs or feature requests.
