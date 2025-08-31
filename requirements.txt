@@ -1,0 +1,27 @@
+# Core dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Langchain dependencies (for Approach 1)
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-openai>=0.0.5
+faiss-cpu>=1.7.4
+
+# Document processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+openpyxl>=3.1.0
+xlrd>=2.0.1
+pandas>=2.0.0
+
+# Data processing
+numpy>=1.24.0
+tiktoken>=0.5.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: For better performance
+# faiss-gpu>=1.7.4  # Uncomment if you have GPU support
